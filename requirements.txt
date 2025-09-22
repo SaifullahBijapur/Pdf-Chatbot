@@ -1,0 +1,28 @@
+
+langchain
+langchain-community
+PyPDF2
+python-dotenv
+streamlit
+# openai==0.27.6
+faiss-cpu
+altair
+tiktoken
+unstructured
+cohere
+# uncomment to use huggingface llms
+# huggingface-hub==0.14.1
+
+# google-generativeai
+# langchain_google_genai
+langchain-groq
+selenium
+
+
+# langchain==0.2.14
+# langchain-groq===0.1.9
+# selenium==4.21.0
+# chromadb==0.5.0
+# streamlit==1.35.0
+# pandas==2.0.2
+# python-dotenv==1.0.0
